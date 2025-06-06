@@ -76,3 +76,4 @@ Xonix — это реализация классической аркадной 
   ```cmd
   xonix.exe
   ```
+![](https://github.com/Enafsky/lab1file/blob/main/photo_2025-06-07_01-26-06.jpg?raw=true)
